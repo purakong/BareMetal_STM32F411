@@ -1,0 +1,2 @@
+port.c:17:6:gpioInit	24	static
+port.c:28:10:setGpioMode	24	static
